@@ -1,45 +1,25 @@
 # Hi 👋, I'm Areeba Hassan
 
-🎓 BS Information Engineering Technology Student
+🎓 BS Information Engineering Technology Student  
+💻 Developer | Python | Web | AI Enthusiast  
 
-💻 I am passionate about:
-- Web Development
-- Flutter App Development
-- 3D Interactive Applications
-- UI/UX Design
+---
 
-🚀 Currently working on:
-- Link3D (3D Social Interaction Platform)
+## 🚀 About Me
+I am a passionate student working on software development, web applications, and AI-based projects.
+
+---
+
+## 💼 Projects
+
+- Library Management System (OOP)
+- Web Scraping TripAdvisor Hotels
+- Event Management System (Database)
+- Habit Tracker Application (Web)
+- Digital Lost & Found System
+- Ship Detection in SAR Imagery (AI/ML)
 
 ---
 
 ## 🛠 Skills
-
-- Flutter
-- React
-- JavaScript
-- HTML & CSS
-- Firebase
-- C++
-- Node.js (basic)
-
----
-
-## 📌 My Projects
-
-### 💻 Python & OOP
-- Library Management System
-- Web Scraping TripAdvisor Hotels
-
-### 🗄️ Database System
-- Event Management System
-
-### 🌐 Web Development
-- Habit Tracker App
-- Digital Lost & Found System
-
-### 🤖 AI / ML
-- Ship Detection in SAR Imagery
-
-
-
+Python | JavaScript | HTML | CSS | Flutter | Firebase | SQL 
