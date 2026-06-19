@@ -1,0 +1,18 @@
+# Library Management System (OOP)
+
+## Description
+A console-based system for managing library books, users, and transactions using Object-Oriented Programming concepts.
+
+## Features
+- Add / Remove Books
+- Issue / Return Books
+- User Management
+
+## Technologies
+- Python
+- OOP Concepts
+
+## Concepts Used
+- Classes & Objects
+- Encapsulation
+- File Handling
