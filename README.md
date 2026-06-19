@@ -26,8 +26,5 @@
 
 ## 📌 Projects
 
-### 🔹 Link3D
-A 3D social interaction platform with avatars, real-time communication, and immersive environment.
-
 ### 🔹 Habit Tracker App
 A productivity app to track daily habits and streaks.
