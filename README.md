@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Areeba Hassan
 
-<!--
-**areebahassan071-boop/areebahassan071-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Information Engineering Technology Student
 
-Here are some ideas to get you started:
+💻 I am passionate about:
+- Web Development
+- Flutter App Development
+- 3D Interactive Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently working on:
+- Link3D (3D Social Interaction Platform)
+
+---
+
+## 🛠 Skills
+
+- Flutter
+- React
+- JavaScript
+- HTML & CSS
+- Firebase
+- C++
+- Node.js (basic)
+
+---
+
+## 📌 Projects
+
+### 🔹 Link3D
+A 3D social interaction platform with avatars, real-time communication, and immersive environment.
+
+### 🔹 Habit Tracker App
+A productivity app to track daily habits and streaks.
